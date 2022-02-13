@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea</string>
+    <string name="imgA">Vocal a</string>
+    <string name="imgE">Vocal e</string>
+    <string name="imgI">Vocal i</string>
+    <string name="imgO">Vocal o</string>
+    <string name="imgU">Vocal u</string>
+</resources>
